@@ -1,2 +1,3 @@
-# board
-公开 NameBeta 的运作事项，搜集并讨论用户的建议
+# OPEN
+
+We will disclose the operational details of NameBeta, collect and discuss user suggestions.
